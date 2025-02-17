@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328PB"</DEVICE>
+ <WORKING_DIR>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328PBdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328pbdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\Debug\Lab_2.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Lab_2.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Lab_2.map</FILE>
+  <FILE>Lab_2.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <RESET><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>50</LINE></RESET>
+  <TABLA7SEG><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>36</LINE></TABLA7SEG>
+  <MAIN_LOOP><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>87</LINE></MAIN_LOOP>
+  <CHECK_BUTTONS><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>105</LINE></CHECK_BUTTONS>
+  <TIMER_UPDATE><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>134</LINE></TIMER_UPDATE>
+  <CHECK_INC_PRESSED><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>113</LINE></CHECK_INC_PRESSED>
+  <CHECK_DEC_PRESSED><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>122</LINE></CHECK_DEC_PRESSED>
+  <TIMER_UPDATE_EXIT><FILE>C:\Users\valen\OneDrive\Escritorio\Laboratorio No. 2\Lab_2\Lab_2\Lab_2\main.asm</FILE><LINE>153</LINE></TIMER_UPDATE_EXIT>
+ </LABELS>
+</ASSEMBLER_INFO>
